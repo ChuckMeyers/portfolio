@@ -2,7 +2,7 @@ My portfolio site which allows users to contact me and browse my previous work.
 
 Credits:
 	Template:
-	|	HTML5up
+	|	HTML5up (html5up.net)
 
 	Demo Images:
 		Unsplash (unsplash.com)
